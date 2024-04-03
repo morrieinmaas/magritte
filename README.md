@@ -11,3 +11,5 @@ or
 ```bash
 find src/ tests/ | entr -s 'pytest tests'
 ```
+
+We've come a long way but it looks like something is off?

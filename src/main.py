@@ -7,6 +7,7 @@ ic.configureOutput(includeContext=True)
 
 if __name__ == '__main__':
     ic("I'm almost as good as logging")
+    ic("Just going about life.")
     try:
         name = sys.argv[1]
         greet(name)
