@@ -13,4 +13,4 @@ def test_greet_name(capsys):
     assert captured.out == "Greetings, Gandalf!\n"
 
 def test_sth_else():
-    assert 1 == 1
+    assert greet() == 1
