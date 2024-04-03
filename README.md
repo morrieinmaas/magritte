@@ -1,5 +1,6 @@
 # Magritte
 
+![image](magpipe.png "I am not a pipe")
 Just use the terminal
 
 ## Python
