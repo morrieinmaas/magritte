@@ -12,3 +12,5 @@ def test_greet_name(capsys):
     captured = capsys.readouterr()
     assert captured.out == "Greetings, Gandalf!\n"
 
+def test_sth_else():
+    assert 1 == 1
