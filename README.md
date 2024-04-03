@@ -14,3 +14,16 @@ Example:
 [xh](https://github.com/ducaale/xh) is like curl - but arguably better.
 
 Then you can simply, and interactively, use jq commands.
+
+#### [fzf](https://github.com/junegunn/fzf)
+
+Just handy. 
+
+#### [sd](https://github.com/chmln/sd)
+
+Find and replace like a boss.
+
+### [duf](https://github.com/muesli/duf)
+
+disk usage for humans
+
